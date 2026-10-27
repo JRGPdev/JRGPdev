@@ -66,6 +66,7 @@
 ### 📫 Contacto
 
 <p align="center">
+  <a href="https://jrgpdev.github.io/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="mailto:josereneguarachi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jose-rene-guarachi-pitiga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
