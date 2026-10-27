@@ -46,15 +46,14 @@
 
 <br>
 
-### 📊 Estadísticas
+### 🚀 Proyectos destacados
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=JRGPdev&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=JRGPdev&layout=compact&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JRGPdev&hide_border=true" />
-</p>
+| Proyecto | Qué hace | Tecnologías |
+|---|---|---|
+| 🤖 [**claude-rag-agent**](https://github.com/JRGPdev/claude-rag-agent) | Agente RAG que responde preguntas sobre tus documentos usando embeddings locales + Claude API | Python · Claude API · RAG |
+| 🔌 [**n8n-mcp-server**](https://github.com/JRGPdev/n8n-mcp-server) | Servidor MCP para manejar workflows de n8n directamente desde Claude | Python · MCP · n8n |
+| 🧠 [**crm-harness**](https://github.com/JRGPdev/crm-harness) | Harness mínimo de agente de IA sobre un CRM, usando la API de Claude | TypeScript · Claude API · Agentes |
+| 🌐 [**Portafolio**](https://github.com/JRGPdev/JRGPdev.github.io) | Mi portafolio personal como AI Engineer y Full Stack | Next.js · React · TypeScript |
 
 <br>
 
