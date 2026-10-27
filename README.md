@@ -46,14 +46,20 @@
 
 <br>
 
-### 🚀 Proyectos destacados
+### 🧩 Lo que construyo
 
-| Proyecto | Qué hace | Tecnologías |
-|---|---|---|
-| 🤖 [**claude-rag-agent**](https://github.com/JRGPdev/claude-rag-agent) | Agente RAG que responde preguntas sobre tus documentos usando embeddings locales + Claude API | Python · Claude API · RAG |
-| 🔌 [**n8n-mcp-server**](https://github.com/JRGPdev/n8n-mcp-server) | Servidor MCP para manejar workflows de n8n directamente desde Claude | Python · MCP · n8n |
-| 🧠 [**crm-harness**](https://github.com/JRGPdev/crm-harness) | Harness mínimo de agente de IA sobre un CRM, usando la API de Claude | TypeScript · Claude API · Agentes |
-| 🌐 [**Portafolio**](https://github.com/JRGPdev/JRGPdev.github.io) | Mi portafolio personal como AI Engineer y Full Stack | Next.js · React · TypeScript |
+- 🤖 **Agentes de IA conversacionales** — bots para WhatsApp con memoria, RAG sobre documentos y herramientas conectadas a sistemas reales.
+- 🔌 **Integraciones con Claude / MCP** — servidores MCP para que la IA pueda usar tus APIs, bases de datos y workflows.
+- ⚙️ **Automatizaciones** — flujos con n8n y RPA que conectan APIs, bases de datos y procesos del día a día.
+- 🌐 **Aplicaciones web full stack** — de la base de datos a la interfaz, con React/Next.js, Node.js, .NET y SQL.
+
+<br>
+
+### 🌱 Ahora mismo
+
+- 🔭 Construyendo agentes de IA más completos con la API de Claude y MCP.
+- 📚 Profundizando en RAG, evaluación de agentes y buenas prácticas para llevarlos a producción.
+- 💬 Abierto a oportunidades como **AI Engineer / Full Stack** (remoto).
 
 <br>
 
